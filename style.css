@@ -1,0 +1,125 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;;
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+.d-flex{
+    display: flex;
+}
+.half-width {
+    width: 50%;
+    padding: 45px;
+}
+.half-width h1 {
+    font-size: 50px;
+    margin: 7px;
+    color: #575757;
+}
+.half-width h1 span{
+    color: #FD4E2F;
+}
+.sec1-left{
+    padding: 80px 0;
+}
+.half-width p{
+    font-size: 17px;
+    color: darkgray;
+    padding: 20px 0;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, #FD4E2F);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 25px;
+}
+.recipies{
+    margin: 10px 0;
+}
+.recipies h1{
+    font-size: 30px;
+}
+.my-recipies-title {
+    text-align: center;
+    padding: 10px 265px;
+}
+
+.mid-recipies-width {
+    width: 30%;
+    padding: 30px 25px;
+    margin: 32px 0;
+    border-radius: 30px;
+}
+.box-shadow {
+    box-shadow: 0px 10px 30px 2px rgb(0 0 0 / 25%);
+}
+.recipies-width {
+    width: 30%;
+    padding: 30px 25px;
+    margin: 32px;
+    border-radius: 30px;
+}
+.followers-width {
+    width: 30%;
+    padding: 50px 100px;
+}
+.followers {
+    padding: 70px 35px;
+    border-radius: 77px;
+}
+.border-radius {
+    border-radius: 30px;
+}
+.followers h2{
+    font-size: 30px;
+    margin: 0;
+}
+.followers-width img {
+    width: 27px;
+    height: 20px;
+}
+.delevery-hours{
+    padding: 30px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px 80px;
+}
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .contact-us{
+      padding: 30px;
+  }
+  input{
+      margin: 3px 0;
+  }
+  span{
+
+  }
+  .space1{
+    margin-left: 39px;
+}
+.space2{
+    margin-left: 40px;
+}
+.space3 {
+    margin-left: 79px;
+}
+.space4 {
+    margin-left: 71px;
+}
+.space5{
+    margin-left: 30px;
+}
