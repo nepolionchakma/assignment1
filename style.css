@@ -6,6 +6,9 @@ body{
 img{
     width: 100%;
 }
+.section-padding{
+    padding: 60px 0;
+}
 .d-flex{
     display: flex;
 }
@@ -28,6 +31,10 @@ img{
     font-size: 17px;
     color: darkgray;
     padding: 20px 0;
+}
+.bg-1{
+    background-image: url(img/Frame\ 57.jpg);
+    background-repeat: round;
 }
 .btn{
     text-decoration: none;
@@ -91,23 +98,19 @@ table {
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 3px solid #ccbfbf;
     text-align: center;
-    padding: 10px 80px;
+    padding: 13px 0;
 }
-  
-  tr:nth-child(even) {
-    background-color: #dddddd;
-  }
   .contact-us{
       padding: 30px;
   }
   input{
       margin: 3px 0;
   }
-  span{
-
-  }
+  .half-width h2 {
+    text-align: center;
+}
   .space1{
     margin-left: 39px;
 }
@@ -122,4 +125,22 @@ table {
 }
 .space5{
     margin-left: 30px;
+}
+.bg-2{
+    background-image: url(img/Frame\ 58.jpg);
+    background-repeat: round;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.footer span{
+    color: salmon;
+}
+.footer h2 {
+    color: #575757;
+    font-size: 30px;
+}
+.footer div{
+    text-align: center;
 }
