@@ -28,7 +28,7 @@ img{
 }
 .half-width p{
     font-size: 17px;
-    color: darkgray;
+    color: #676767;
     padding: 20px 0;
 }
 
@@ -75,7 +75,7 @@ img{
     color: #575757;
 }
 .p-color{
-    color: darkgray;
+    color: #676767;
 }
 .box-shadow {
     box-shadow: 0px 10px 30px 2px rgb(0 0 0 / 25%);
@@ -162,7 +162,13 @@ table {
 
 /*  Footer */
 
-
+.footer-link a{
+    display: inline-block;
+    text-decoration: none;
+    color: darkorange;
+    text-align: center;
+    padding: 10px;
+}
 .footer{
     background-color: black;
     color: white;
